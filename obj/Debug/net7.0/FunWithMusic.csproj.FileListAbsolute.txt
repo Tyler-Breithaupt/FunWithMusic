@@ -1,0 +1,15 @@
+/Users/tylerbreithaupt/Desktop/CIT195/FunWithMusic/bin/Debug/net7.0/FunWithMusic
+/Users/tylerbreithaupt/Desktop/CIT195/FunWithMusic/bin/Debug/net7.0/FunWithMusic.deps.json
+/Users/tylerbreithaupt/Desktop/CIT195/FunWithMusic/bin/Debug/net7.0/FunWithMusic.runtimeconfig.json
+/Users/tylerbreithaupt/Desktop/CIT195/FunWithMusic/bin/Debug/net7.0/FunWithMusic.dll
+/Users/tylerbreithaupt/Desktop/CIT195/FunWithMusic/bin/Debug/net7.0/FunWithMusic.pdb
+/Users/tylerbreithaupt/Desktop/CIT195/FunWithMusic/obj/Debug/net7.0/FunWithMusic.csproj.AssemblyReference.cache
+/Users/tylerbreithaupt/Desktop/CIT195/FunWithMusic/obj/Debug/net7.0/FunWithMusic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tylerbreithaupt/Desktop/CIT195/FunWithMusic/obj/Debug/net7.0/FunWithMusic.AssemblyInfoInputs.cache
+/Users/tylerbreithaupt/Desktop/CIT195/FunWithMusic/obj/Debug/net7.0/FunWithMusic.AssemblyInfo.cs
+/Users/tylerbreithaupt/Desktop/CIT195/FunWithMusic/obj/Debug/net7.0/FunWithMusic.csproj.CoreCompileInputs.cache
+/Users/tylerbreithaupt/Desktop/CIT195/FunWithMusic/obj/Debug/net7.0/FunWithMusic.dll
+/Users/tylerbreithaupt/Desktop/CIT195/FunWithMusic/obj/Debug/net7.0/refint/FunWithMusic.dll
+/Users/tylerbreithaupt/Desktop/CIT195/FunWithMusic/obj/Debug/net7.0/FunWithMusic.pdb
+/Users/tylerbreithaupt/Desktop/CIT195/FunWithMusic/obj/Debug/net7.0/FunWithMusic.genruntimeconfig.cache
+/Users/tylerbreithaupt/Desktop/CIT195/FunWithMusic/obj/Debug/net7.0/ref/FunWithMusic.dll
